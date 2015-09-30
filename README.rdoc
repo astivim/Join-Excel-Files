@@ -1,0 +1,6 @@
+This script is part of the exploratory data analysis I have done for the charity organization "Doctors for Doctors/Nurses for Nurses" http://www.doctorsfordoctors.ca/ . The primary focus of the organization is to improve health care in rural parts of Nicaragua. 
+The script will join data from several sources to one Excel file using xlsxwriter. Files are excel and csv files from United Nation Population Division, World Health Organization and the World Bank database containing information about Nicaragua and can be downloaded at: 
+
+http://apps.who.int/gho/data/node.country.country-NIC?lang=en
+http://esa.un.org/unpd/wpp/DVD/
+http://data.worldbank.org/country/nicaragua
